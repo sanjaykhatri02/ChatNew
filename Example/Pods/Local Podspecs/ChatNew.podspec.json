@@ -1,0 +1,22 @@
+{
+  "name": "ChatNew",
+  "version": "0.1.0",
+  "summary": "A short description of ChatNew.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sanjay.khatri02@outlook.com/ChatNew",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sanjay.khatri02@outlook.com": "sanjay.khatri02@outlook.com"
+  },
+  "source": {
+    "git": "https://github.com/sanjay.khatri02@outlook.com/ChatNew.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ChatNew/Classes/**/*"
+}

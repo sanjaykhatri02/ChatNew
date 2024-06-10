@@ -1,0 +1,16 @@
+PODS:
+  - ChatNew (0.1.0)
+
+DEPENDENCIES:
+  - ChatNew (from `../`)
+
+EXTERNAL SOURCES:
+  ChatNew:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ChatNew: e49f4adf1d56a8642ecfd914d84ad1852f0fc9cc
+
+PODFILE CHECKSUM: a5efb24ba6fa67a9aa0a4645c4da2197069021f2
+
+COCOAPODS: 1.14.3

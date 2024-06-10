@@ -1,5 +1,5 @@
 import XCTest
-import ChatNew
+//import ChatNew
 
 class Tests: XCTestCase {
     
