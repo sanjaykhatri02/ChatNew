@@ -28,7 +28,19 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '13.0'
 
-  s.source_files = '/Classes/**/*'
+  s.source_files = 'Classes/**/*.{swift,h,m}'
+  s.public_header_files = 'Classes/**/*.h'
+  s.pod_target_xcconfig = { 'HEADER_SEARCH_PATHS' => '$(inherited) $(SRCROOT)/Classes' }
+  
+  s.resources = [
+      'Resources/**/*.{png,jpeg,jpg,storyboard,xib}',
+      'Resources/Xib/*.xib',
+      'Resources/Assets/*.xcassets',
+      'Resources/Fonts/*.{ttf,otf}',  # Include fonts from Fonts folder
+      'Resources/**/*.gif'
+    ]
+  
+  s.swift_version = ['4.0','5.0']
   
   # s.resource_bundles = {
   #   'ChatNew' => ['ChatNew/Assets/*.png']
