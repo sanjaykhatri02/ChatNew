@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ChatNew'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'A ChatTestDemo App That is Demo.'
 
 # This description is used to generate tags and improve search results.
@@ -32,13 +32,13 @@ Pod::Spec.new do |s|
 #  s.public_header_files = 'Classes/**/*.h'
 #  s.pod_target_xcconfig = { 'HEADER_SEARCH_PATHS' => '$(inherited) $(SRCROOT)/Classes' }
   
-#  s.resources = [
-#      'Resources/**/*.{png,jpeg,jpg,storyboard,xib}',
-#      'Resources/Xib/*.xib',
-#      'Resources/Assets/*.xcassets',
-#      'Resources/Fonts/*.{ttf,otf}',  # Include fonts from Fonts folder
-#      'Resources/**/*.gif'
-#    ]
+  s.resources = [
+      'Resources/**/*.{png,jpeg,jpg,storyboard,xib}',
+      'Resources/Xib/*.xib',
+      'Resources/Assets/*.xcassets',
+      'Resources/Fonts/*.{ttf,otf}',  # Include fonts from Fonts folder
+      'Resources/**/*.gif'
+    ]
   
   s.swift_version = ['4.0','5.0']
   
