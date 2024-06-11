@@ -13,7 +13,7 @@ import Photos
 import MobileCoreServices
 import Alamofire
 import ImageLoader
-import SwiftEventBus
+//import SwiftEventBus
 import QuickLook
 import SwiftGifOrigin
 import Kingfisher
