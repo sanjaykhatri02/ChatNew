@@ -8,6 +8,29 @@
 
 /* Begin PBXBuildFile section */
 		0440C7872C16EED500C0CCCC /* Validator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440C7862C16EED500C0CCCC /* Validator.swift */; };
+		0440C7A02C1723FD00C0CCCC /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C7892C1723FC00C0CCCC /* OpenSans-Bold.ttf */; };
+		0440C7A12C1723FD00C0CCCC /* brandon_medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C78A2C1723FC00C0CCCC /* brandon_medium.otf */; };
+		0440C7A22C1723FD00C0CCCC /* font_regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C78B2C1723FC00C0CCCC /* font_regular.ttf */; };
+		0440C7A32C1723FD00C0CCCC /* brandon_bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C78C2C1723FC00C0CCCC /* brandon_bold.otf */; };
+		0440C7A42C1723FD00C0CCCC /* OpenSans-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C78D2C1723FC00C0CCCC /* OpenSans-SemiBold.ttf */; };
+		0440C7A52C1723FD00C0CCCC /* Roboto-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C78E2C1723FC00C0CCCC /* Roboto-Regular.ttf */; };
+		0440C7A62C1723FD00C0CCCC /* Roboto-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C78F2C1723FC00C0CCCC /* Roboto-Black.ttf */; };
+		0440C7A72C1723FD00C0CCCC /* font_light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C7902C1723FC00C0CCCC /* font_light.ttf */; };
+		0440C7A82C1723FD00C0CCCC /* brandon_bold_2.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C7912C1723FC00C0CCCC /* brandon_bold_2.otf */; };
+		0440C7A92C1723FD00C0CCCC /* Roboto-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C7922C1723FC00C0CCCC /* Roboto-Bold.ttf */; };
+		0440C7AA2C1723FD00C0CCCC /* RobotoSlab-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C7932C1723FC00C0CCCC /* RobotoSlab-Light.ttf */; };
+		0440C7AB2C1723FD00C0CCCC /* font_black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C7942C1723FC00C0CCCC /* font_black.ttf */; };
+		0440C7AC2C1723FD00C0CCCC /* font_semi_bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C7952C1723FC00C0CCCC /* font_semi_bold.ttf */; };
+		0440C7AD2C1723FD00C0CCCC /* Roboto Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C7962C1723FC00C0CCCC /* Roboto Light.ttf */; };
+		0440C7AE2C1723FD00C0CCCC /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C7972C1723FC00C0CCCC /* OpenSans-ExtraBold.ttf */; };
+		0440C7AF2C1723FD00C0CCCC /* Sans Serif Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C7982C1723FC00C0CCCC /* Sans Serif Medium.ttf */; };
+		0440C7B02C1723FD00C0CCCC /* Roboto-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C7992C1723FC00C0CCCC /* Roboto-Medium.ttf */; };
+		0440C7B12C1723FD00C0CCCC /* brandon_light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C79A2C1723FC00C0CCCC /* brandon_light.otf */; };
+		0440C7B22C1723FD00C0CCCC /* OpenSans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C79B2C1723FD00C0CCCC /* OpenSans-Medium.ttf */; };
+		0440C7B32C1723FD00C0CCCC /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C79C2C1723FD00C0CCCC /* OpenSans-Regular.ttf */; };
+		0440C7B42C1723FD00C0CCCC /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C79D2C1723FD00C0CCCC /* OpenSans-Light.ttf */; };
+		0440C7B52C1723FD00C0CCCC /* font_bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C79E2C1723FD00C0CCCC /* font_bold.ttf */; };
+		0440C7B62C1723FD00C0CCCC /* font_extra_light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0440C79F2C1723FD00C0CCCC /* font_extra_light.ttf */; };
 		1CA4B2212D7805B77E86A553CCCDD799 /* Pods-ChatNew_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 65359EF37DA9D184640D3EB04D557EDD /* Pods-ChatNew_Example-dummy.m */; };
 		2EEA849D00F8C592EB0F7401CF232938 /* ChatNew-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DECEC0E1C172F0F5EE8E2A0BEB00F9F0 /* ChatNew-dummy.m */; };
 		73CE8618A1B8BFFA6FBB87155E2D6FD9 /* Pods-ChatNew_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5EF63844CDE77B36337B70E3CFE67C42 /* Pods-ChatNew_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -40,6 +63,29 @@
 		006FCF5BEC0549FF850B08113EEABA53 /* ChatNew.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = ChatNew.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		021123BADE47A83093EA8E39EA3E0D8B /* Pods-ChatNew_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ChatNew_Example-Info.plist"; sourceTree = "<group>"; };
 		0440C7862C16EED500C0CCCC /* Validator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validator.swift; sourceTree = "<group>"; };
+		0440C7892C1723FC00C0CCCC /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		0440C78A2C1723FC00C0CCCC /* brandon_medium.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = brandon_medium.otf; sourceTree = "<group>"; };
+		0440C78B2C1723FC00C0CCCC /* font_regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = font_regular.ttf; sourceTree = "<group>"; };
+		0440C78C2C1723FC00C0CCCC /* brandon_bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = brandon_bold.otf; sourceTree = "<group>"; };
+		0440C78D2C1723FC00C0CCCC /* OpenSans-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-SemiBold.ttf"; sourceTree = "<group>"; };
+		0440C78E2C1723FC00C0CCCC /* Roboto-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Regular.ttf"; sourceTree = "<group>"; };
+		0440C78F2C1723FC00C0CCCC /* Roboto-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Black.ttf"; sourceTree = "<group>"; };
+		0440C7902C1723FC00C0CCCC /* font_light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = font_light.ttf; sourceTree = "<group>"; };
+		0440C7912C1723FC00C0CCCC /* brandon_bold_2.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = brandon_bold_2.otf; sourceTree = "<group>"; };
+		0440C7922C1723FC00C0CCCC /* Roboto-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Bold.ttf"; sourceTree = "<group>"; };
+		0440C7932C1723FC00C0CCCC /* RobotoSlab-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoSlab-Light.ttf"; sourceTree = "<group>"; };
+		0440C7942C1723FC00C0CCCC /* font_black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = font_black.ttf; sourceTree = "<group>"; };
+		0440C7952C1723FC00C0CCCC /* font_semi_bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = font_semi_bold.ttf; sourceTree = "<group>"; };
+		0440C7962C1723FC00C0CCCC /* Roboto Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto Light.ttf"; sourceTree = "<group>"; };
+		0440C7972C1723FC00C0CCCC /* OpenSans-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-ExtraBold.ttf"; sourceTree = "<group>"; };
+		0440C7982C1723FC00C0CCCC /* Sans Serif Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Sans Serif Medium.ttf"; sourceTree = "<group>"; };
+		0440C7992C1723FC00C0CCCC /* Roboto-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Roboto-Medium.ttf"; sourceTree = "<group>"; };
+		0440C79A2C1723FC00C0CCCC /* brandon_light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = brandon_light.otf; sourceTree = "<group>"; };
+		0440C79B2C1723FD00C0CCCC /* OpenSans-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Medium.ttf"; sourceTree = "<group>"; };
+		0440C79C2C1723FD00C0CCCC /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		0440C79D2C1723FD00C0CCCC /* OpenSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Light.ttf"; sourceTree = "<group>"; };
+		0440C79E2C1723FD00C0CCCC /* font_bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = font_bold.ttf; sourceTree = "<group>"; };
+		0440C79F2C1723FD00C0CCCC /* font_extra_light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = font_extra_light.ttf; sourceTree = "<group>"; };
 		04FCE8780E89E6DD1250279F4625ACD5 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		0D583D16A46694E246FC04F35E79DECF /* Pods-ChatNew_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ChatNew_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		1BED4CAC66122E2D15887ED7820B6727 /* ChatNew.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ChatNew.release.xcconfig; sourceTree = "<group>"; };
@@ -108,6 +154,44 @@
 			path = Classes;
 			sourceTree = "<group>";
 		};
+		0440C7882C17239A00C0CCCC /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				0440C7912C1723FC00C0CCCC /* brandon_bold_2.otf */,
+				0440C78C2C1723FC00C0CCCC /* brandon_bold.otf */,
+				0440C79A2C1723FC00C0CCCC /* brandon_light.otf */,
+				0440C78A2C1723FC00C0CCCC /* brandon_medium.otf */,
+				0440C7942C1723FC00C0CCCC /* font_black.ttf */,
+				0440C79E2C1723FD00C0CCCC /* font_bold.ttf */,
+				0440C79F2C1723FD00C0CCCC /* font_extra_light.ttf */,
+				0440C7902C1723FC00C0CCCC /* font_light.ttf */,
+				0440C78B2C1723FC00C0CCCC /* font_regular.ttf */,
+				0440C7952C1723FC00C0CCCC /* font_semi_bold.ttf */,
+				0440C7892C1723FC00C0CCCC /* OpenSans-Bold.ttf */,
+				0440C7972C1723FC00C0CCCC /* OpenSans-ExtraBold.ttf */,
+				0440C79D2C1723FD00C0CCCC /* OpenSans-Light.ttf */,
+				0440C79B2C1723FD00C0CCCC /* OpenSans-Medium.ttf */,
+				0440C79C2C1723FD00C0CCCC /* OpenSans-Regular.ttf */,
+				0440C78D2C1723FC00C0CCCC /* OpenSans-SemiBold.ttf */,
+				0440C7962C1723FC00C0CCCC /* Roboto Light.ttf */,
+				0440C78F2C1723FC00C0CCCC /* Roboto-Black.ttf */,
+				0440C7922C1723FC00C0CCCC /* Roboto-Bold.ttf */,
+				0440C7992C1723FC00C0CCCC /* Roboto-Medium.ttf */,
+				0440C78E2C1723FC00C0CCCC /* Roboto-Regular.ttf */,
+				0440C7932C1723FC00C0CCCC /* RobotoSlab-Light.ttf */,
+				0440C7982C1723FC00C0CCCC /* Sans Serif Medium.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		0440C7B72C1724E500C0CCCC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				0440C7882C17239A00C0CCCC /* Fonts */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		154C0F0C010672E1872AD7F13C3F2D95 /* Pods-ChatNew_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -171,6 +255,7 @@
 		AE80F9ABD6FCCADC75A0E15954B84461 /* ChatNew */ = {
 			isa = PBXGroup;
 			children = (
+				0440C7B72C1724E500C0CCCC /* Resources */,
 				0440C7852C16EE6D00C0CCCC /* Classes */,
 				1BF0947D4B2E025A8A3CC6C34658155E /* Pod */,
 				7FE6E6DE899284E5B40783FEE91E6126 /* Support Files */,
@@ -370,6 +455,29 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0440C7B52C1723FD00C0CCCC /* font_bold.ttf in Resources */,
+				0440C7AF2C1723FD00C0CCCC /* Sans Serif Medium.ttf in Resources */,
+				0440C7B22C1723FD00C0CCCC /* OpenSans-Medium.ttf in Resources */,
+				0440C7A72C1723FD00C0CCCC /* font_light.ttf in Resources */,
+				0440C7A52C1723FD00C0CCCC /* Roboto-Regular.ttf in Resources */,
+				0440C7B02C1723FD00C0CCCC /* Roboto-Medium.ttf in Resources */,
+				0440C7A92C1723FD00C0CCCC /* Roboto-Bold.ttf in Resources */,
+				0440C7A02C1723FD00C0CCCC /* OpenSans-Bold.ttf in Resources */,
+				0440C7AC2C1723FD00C0CCCC /* font_semi_bold.ttf in Resources */,
+				0440C7A12C1723FD00C0CCCC /* brandon_medium.otf in Resources */,
+				0440C7B42C1723FD00C0CCCC /* OpenSans-Light.ttf in Resources */,
+				0440C7AB2C1723FD00C0CCCC /* font_black.ttf in Resources */,
+				0440C7B32C1723FD00C0CCCC /* OpenSans-Regular.ttf in Resources */,
+				0440C7AA2C1723FD00C0CCCC /* RobotoSlab-Light.ttf in Resources */,
+				0440C7A42C1723FD00C0CCCC /* OpenSans-SemiBold.ttf in Resources */,
+				0440C7B62C1723FD00C0CCCC /* font_extra_light.ttf in Resources */,
+				0440C7B12C1723FD00C0CCCC /* brandon_light.otf in Resources */,
+				0440C7A62C1723FD00C0CCCC /* Roboto-Black.ttf in Resources */,
+				0440C7A22C1723FD00C0CCCC /* font_regular.ttf in Resources */,
+				0440C7AD2C1723FD00C0CCCC /* Roboto Light.ttf in Resources */,
+				0440C7A82C1723FD00C0CCCC /* brandon_bold_2.otf in Resources */,
+				0440C7A32C1723FD00C0CCCC /* brandon_bold.otf in Resources */,
+				0440C7AE2C1723FD00C0CCCC /* OpenSans-ExtraBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

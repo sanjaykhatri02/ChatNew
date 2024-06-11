@@ -29,16 +29,16 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '13.0'
 
   s.source_files = 'Classes/**/*.{swift,h,m}'
-  s.public_header_files = 'Classes/**/*.h'
-  s.pod_target_xcconfig = { 'HEADER_SEARCH_PATHS' => '$(inherited) $(SRCROOT)/Classes' }
+#  s.public_header_files = 'Classes/**/*.h'
+#  s.pod_target_xcconfig = { 'HEADER_SEARCH_PATHS' => '$(inherited) $(SRCROOT)/Classes' }
   
-  s.resources = [
-      'Resources/**/*.{png,jpeg,jpg,storyboard,xib}',
-      'Resources/Xib/*.xib',
-      'Resources/Assets/*.xcassets',
-      'Resources/Fonts/*.{ttf,otf}',  # Include fonts from Fonts folder
-      'Resources/**/*.gif'
-    ]
+#  s.resources = [
+#      'Resources/**/*.{png,jpeg,jpg,storyboard,xib}',
+#      'Resources/Xib/*.xib',
+#      'Resources/Assets/*.xcassets',
+#      'Resources/Fonts/*.{ttf,otf}',  # Include fonts from Fonts folder
+#      'Resources/**/*.gif'
+#    ]
   
   s.swift_version = ['4.0','5.0']
   
@@ -47,6 +47,27 @@ Pod::Spec.new do |s|
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'UIKit', 'Foundation'
+  s.dependency 'Alamofire', '~> 5.9.0'
+  s.dependency 'LMCSideMenu'
+  s.dependency 'iOSDropDown'
+  s.dependency 'ProgressHUD'
+  s.dependency 'SwiftyJSON'
+  s.dependency 'SVProgressHUD'
+  s.dependency 'NVActivityIndicatorView'
+  s.dependency 'IQKeyboardManager'
+  s.dependency 'Firebase/Core'
+  s.dependency 'Firebase/Messaging'
+  s.dependency 'Kingfisher'
+#  s.dependency 'SwiftEventBus'
+#  s.dependency 'SwiftGifOrigin', '~> 1.7.0'
+  s.dependency 'FMDB'
+  s.dependency 'SwiftSignalRClient'
+  s.dependency 'Toaster'
+  s.dependency 'ImageLoader'
+  s.dependency 'BSImagePicker'
+  
+
+  
 end
