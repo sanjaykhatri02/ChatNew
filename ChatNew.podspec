@@ -47,7 +47,6 @@ Pod::Spec.new do |s|
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  s.frameworks = 'UIKit', 'MapKit'
   s.frameworks = 'UIKit', 'Foundation'
   s.dependency 'Alamofire', '~> 5.9.0'
   s.dependency 'LMCSideMenu'
@@ -62,12 +61,12 @@ Pod::Spec.new do |s|
   s.dependency 'Kingfisher'
 #  s.dependency 'SwiftEventBus'
 #  s.dependency 'SwiftGifOrigin', '~> 1.7.0'
+  s.dependency 'Swift-EventBus'
   s.dependency 'FMDB'
   s.dependency 'SwiftSignalRClient'
   s.dependency 'Toaster'
   s.dependency 'ImageLoader'
   s.dependency 'BSImagePicker'
   
-
   
 end
